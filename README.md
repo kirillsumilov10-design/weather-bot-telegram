@@ -1,4 +1,4 @@
-# weather-bot-telegram
+# weather bot telegram
 Telegram bot which show you weather in some cities...
 
 bot language = "ru"
